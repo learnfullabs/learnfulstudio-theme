@@ -1,0 +1,16 @@
+{
+  "name": "learnfullabs/learnfulstudio-theme",
+  "description": "Drupal 9 subtheme for Radix. Built for OER Studio Project",
+  "type": "drupal-theme",
+  "homepage": "https://github.com/learnfullabs/learnfulstudio-theme",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Yasin Dahi",
+      "email": "ydahi@learnful.io",
+      "role": "Maintainer"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
